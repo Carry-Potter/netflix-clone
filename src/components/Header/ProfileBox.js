@@ -18,11 +18,11 @@ export default function ProfileBox() {
         <ul>
           <li>
             <img src={bea} alt="Other Profile 1" />
-            <span>Bea</span>
+            <span>user-1</span>
           </li>
           <li>
             <img src={mason} alt="Other Profile 2" />
-            <span>Mason</span>
+            <span>user-2</span>
           </li>
           <li>
             <span>Manage Profiles</span>
